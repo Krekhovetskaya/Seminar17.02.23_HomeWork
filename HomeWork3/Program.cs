@@ -11,6 +11,6 @@ string N = Console.ReadLine();
     }
     else
     {
-        Console.WriteLine($"{N} - НЕ палиндром");
+        Console.WriteLine($"{N} - Не палиндром");
     }
 
